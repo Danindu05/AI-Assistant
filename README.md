@@ -13,7 +13,7 @@ This chatbot is designed to engage in **smart, meaningful conversations**, answe
 
 Anything! This AI chatbot is here to help with knowledge, insights, and even casual chats.  
 
-## 🛠️ Tech Behind the Magic  
+## 🛠️ Technologies Used  
 
 - **AI Model:** Gemini 
 - **Backend:** Flask  
@@ -21,7 +21,12 @@ Anything! This AI chatbot is here to help with knowledge, insights, and even cas
 
 ![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyh.png) 
 
+
+
 ---
+
+
+
 ![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyai.png) 
 
 
