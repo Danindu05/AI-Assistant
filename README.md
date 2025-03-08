@@ -19,7 +19,7 @@ Anything! This AI chatbot is here to help with knowledge, insights, and even cas
 - **Backend:** Flask  
 - **Frontend:** HTML,CSS,JS
 
-![AI Chatbot](https://github.com/Danindu05/Lily/issues/2#issuecomment-2708076577) 
+![AI Chatbot](https://github-production-user-asset-6210df.s3.amazonaws.com/179435939/420568875-22b729d5-35de-4d34-9108-5bef48de6d9c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250308T065429Z&X-Amz-Expires=300&X-Amz-Signature=9e2ee09573618abf56ca291d1c879ae4e435cccb8d739e9b6b053ae703ae9a09&X-Amz-SignedHeaders=host) 
 
 
 
@@ -27,7 +27,7 @@ Anything! This AI chatbot is here to help with knowledge, insights, and even cas
 
 
 
-![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyai.png) 
+![AI Chatbot](https://github-production-user-asset-6210df.s3.amazonaws.com/179435939/420568875-22b729d5-35de-4d34-9108-5bef48de6d9c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250308T065429Z&X-Amz-Expires=300&X-Amz-Signature=9e2ee09573618abf56ca291d1c879ae4e435cccb8d739e9b6b053ae703ae9a09&X-Amz-SignedHeaders=host) 
 
 
 ## 💻 Local Development  
