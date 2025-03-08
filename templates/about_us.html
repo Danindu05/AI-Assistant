@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+          integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="page-wrapper">
+        {% include '_navbar.html' %}
+        <div class="about-us-container">
+            <header>
+                <h1>About Lily AI</h1>
+                <p style="color: white;">Learn more about our mission , your AI assistant.</p>
+            </header>
+          
+            
+            <section class="our-mission">
+                <h2>Our Mission</h2>
+                <p>At Lily AI, our mission is to empower users with intelligent and accessible AI assistance. We believe that AI can enhance productivity, spark creativity, and provide valuable information to everyone.</p>
+            </section>
+
+        
+
+            <section class="contact-us">
+                <h2>Contact Us</h2>
+                <p>Have questions or feedback? Reach out to us!</p>
+                <a href="mailto:info@example.com" class="contact-button">Contact Us <i class="fas fa-envelope"></i></a>
+            </section>
+
+            <footer>
+                <p>© 2025 Lily AI. All rights reserved.</p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

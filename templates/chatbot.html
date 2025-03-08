@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lily - Your AI Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="page-wrapper"> 
+        {% include '_navbar.html' %}
+    <div class="container">
+        <header>
+            <h1>Lily</h1>
+            <p>Your Personal AI Assistant</p>
+        </header>
+        <main id="chat-log">
+            <div class="message bot-message">
+                <p>Hello! I'm Lily. How can I help you today?</p>
+            </div>
+        </main>
+        <footer>
+            <div class="input-area">
+                <input type="text" id="user-input" placeholder="Type your message...">
+                <button id="send-button">Send</button>
+            </div>
+        </footer>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

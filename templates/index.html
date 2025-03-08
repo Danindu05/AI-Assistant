@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="page-wrapper">
+        {% include '_navbar.html' %}
+        <div class="home-container">
+            <section class="hero">
+                <div class="hero-content">
+                    <h1>Meet Lily, Your Personal AI Companion</h1>
+                    <p>Experience the power of intelligent assistance with Lily. Get answers, explore ideas, and boost your productivity with our friendly AI chatbot.</p>
+                    <a href="{{ url_for('chatbot') }}" class="cta-button">Start Chatting <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="hero-image">
+                    <img src="{{ url_for('static', filename='lily-hero-image.jpeg') }}" alt="Lily AI Assistant">
+                </div>
+            </section>
+
+            <section class="features">
+                <h2>Key Features</h2>
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <i class="fas fa-brain"></i>
+                        <h3>Powered by Gemini</h3>
+                        <p>Harness the power of Google's cutting-edge language model for intelligent and creative assistance.</p>
+                    </div>
+                    <div class="feature-card">
+                        <i class="fas fa-comments"></i>
+                        <h3>Easy-to-Use Chat</h3>
+                        <p>Enjoy a seamless and intuitive chat interface for effortless communication.</p>
+                    </div>
+                    
+                </div>
+            </section>
+
+            <footer>
+                <p>© 2025 Lily AI. All rights reserved.</p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
