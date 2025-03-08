@@ -19,12 +19,18 @@ Anything! This AI chatbot is here to help with knowledge, insights, and even cas
 - **Backend:** Flask  
 - **Frontend:** HTML,CSS,JS
 
-![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyai.png)  
+![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyh.png) 
+![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyai.png) 
 
----
 
-## 🚀 Get Started  
-
-Clone this repo:
-```sh
-git clone https://github.com/nschandunu/AI-Assistant.git
+## 💻 Local Development  
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Danindu05/AI-Assistant.git
+2. Install the required dependencies:
+   ```sh
+   pip install -r requirements.txt
+ 3.Run the application:
+ ```sh
+   python app.py
+ 
