@@ -19,7 +19,7 @@ Anything! This AI chatbot is here to help with knowledge, insights, and even cas
 - **Backend:** Flask  
 - **Frontend:** HTML,CSS,JS
 
-![AI Chatbot]([https://github.com/username/repository/blob/main/images/chatbot.png?raw=true](https://github.com/Danindu05/Lily/blob/22e76641aa306b9f6eddccb13bf3fd804c41ee89/lilyh.png))  
+![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyai.png)  
 
 ---
 
