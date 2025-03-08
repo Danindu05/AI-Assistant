@@ -27,7 +27,7 @@ Anything! This AI chatbot is here to help with knowledge, insights, and even cas
 
 
 
-![AI Chatbot](https://github-production-user-asset-6210df.s3.amazonaws.com/179435939/420568875-22b729d5-35de-4d34-9108-5bef48de6d9c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250308T065429Z&X-Amz-Expires=300&X-Amz-Signature=9e2ee09573618abf56ca291d1c879ae4e435cccb8d739e9b6b053ae703ae9a09&X-Amz-SignedHeaders=host) 
+![AI Chatbot](https://github-production-user-asset-6210df.s3.amazonaws.com/179435939/420569472-0d5b7a0b-2723-4c85-be6b-0dcb3ea3fe4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250308%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250308T065712Z&X-Amz-Expires=300&X-Amz-Signature=b89d71947a6c78bdb07674ff74434aa33eaf7ff5dca705a00dbd07e86b74d235&X-Amz-SignedHeaders=host) 
 
 
 ## 💻 Local Development  
