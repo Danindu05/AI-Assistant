@@ -20,6 +20,8 @@ Anything! This AI chatbot is here to help with knowledge, insights, and even cas
 - **Frontend:** HTML,CSS,JS
 
 ![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyh.png) 
+
+---
 ![AI Chatbot](https://github.com/Danindu05/Lily/blob/main/lilyai.png) 
 
 
